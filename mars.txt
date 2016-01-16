@@ -2,8 +2,5 @@ mars is my favourite
 two moons, might be a problem for wolfran
 mummy will like the dryness of mars
 this is a change
-<<<<<<< HEAD
  Shawn
-=======
 hello from tinyspider.
->>>>>>> 274da4899223b577fdb722baeaa5b3072521dd4a
